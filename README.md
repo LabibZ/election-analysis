@@ -1,4 +1,4 @@
-# STA304 Final Project: Exploring Foreign Language Education
+# Forecasting Canada’s 2025 Federal Election
 Predicting election results is a crucial component of political science and data analytics, influencing not just academic discussion but also public policy and democratic participation. This research looks into a prediction analysis of the overall popular vote for the approaching 2025 Canadian federal election.
 
 ## Overview
